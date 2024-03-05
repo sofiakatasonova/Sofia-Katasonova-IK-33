@@ -1,0 +1,5 @@
+/Users/sofiakatasonova/Projects/лаб 1 2 сем/obj/Debug/net7.0/лаб 1 2 сем.csproj.AssemblyReference.cache
+/Users/sofiakatasonova/Projects/лаб 1 2 сем/obj/Debug/net7.0/лаб 1 2 сем.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiakatasonova/Projects/лаб 1 2 сем/obj/Debug/net7.0/лаб 1 2 сем.AssemblyInfoInputs.cache
+/Users/sofiakatasonova/Projects/лаб 1 2 сем/obj/Debug/net7.0/лаб 1 2 сем.AssemblyInfo.cs
+/Users/sofiakatasonova/Projects/лаб 1 2 сем/obj/Debug/net7.0/лаб 1 2 сем.csproj.CoreCompileInputs.cache

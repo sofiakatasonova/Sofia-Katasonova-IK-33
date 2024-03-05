@@ -1,0 +1,17 @@
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.csproj.AssemblyReference.cache
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.AssemblyInfoInputs.cache
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.AssemblyInfo.cs
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.csproj.CoreCompileInputs.cache
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/bin/Debug/net7.0/лаб 1 зад 2
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/bin/Debug/net7.0/лаб 1 зад 2.deps.json
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/bin/Debug/net7.0/лаб 1 зад 2.runtimeconfig.json
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/bin/Debug/net7.0/лаб 1 зад 2.dll
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/bin/Debug/net7.0/лаб 1 зад 2.pdb
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.csproj.CopyComplete
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.dll
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/refint/лаб 1 зад 2.dll
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.pdb
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/лаб 1 зад 2.genruntimeconfig.cache
+/Users/sofiakatasonova/Projects/лаб 1 зад 2/obj/Debug/net7.0/ref/лаб 1 зад 2.dll
