@@ -1,0 +1,15 @@
+/Users/sofiakatasonova/Projects/lab 3 2/bin/Debug/net7.0/lab 3 2
+/Users/sofiakatasonova/Projects/lab 3 2/bin/Debug/net7.0/lab 3 2.deps.json
+/Users/sofiakatasonova/Projects/lab 3 2/bin/Debug/net7.0/lab 3 2.runtimeconfig.json
+/Users/sofiakatasonova/Projects/lab 3 2/bin/Debug/net7.0/lab 3 2.dll
+/Users/sofiakatasonova/Projects/lab 3 2/bin/Debug/net7.0/lab 3 2.pdb
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/lab 3 2.csproj.AssemblyReference.cache
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/lab 3 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/lab 3 2.AssemblyInfoInputs.cache
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/lab 3 2.AssemblyInfo.cs
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/lab 3 2.csproj.CoreCompileInputs.cache
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/lab 3 2.dll
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/refint/lab 3 2.dll
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/lab 3 2.pdb
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/lab 3 2.genruntimeconfig.cache
+/Users/sofiakatasonova/Projects/lab 3 2/obj/Debug/net7.0/ref/lab 3 2.dll
