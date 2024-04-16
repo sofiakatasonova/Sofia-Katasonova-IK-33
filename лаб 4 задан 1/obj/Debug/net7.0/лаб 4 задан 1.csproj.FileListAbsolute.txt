@@ -1,0 +1,15 @@
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/bin/Debug/net7.0/лаб 4 задан 1
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/bin/Debug/net7.0/лаб 4 задан 1.deps.json
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/bin/Debug/net7.0/лаб 4 задан 1.runtimeconfig.json
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/bin/Debug/net7.0/лаб 4 задан 1.dll
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/bin/Debug/net7.0/лаб 4 задан 1.pdb
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/лаб 4 задан 1.csproj.AssemblyReference.cache
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/лаб 4 задан 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/лаб 4 задан 1.AssemblyInfoInputs.cache
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/лаб 4 задан 1.AssemblyInfo.cs
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/лаб 4 задан 1.csproj.CoreCompileInputs.cache
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/лаб 4 задан 1.dll
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/refint/лаб 4 задан 1.dll
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/лаб 4 задан 1.pdb
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/лаб 4 задан 1.genruntimeconfig.cache
+/Users/sofiakatasonova/Projects/лаб 4 задан 1/obj/Debug/net7.0/ref/лаб 4 задан 1.dll
